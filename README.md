@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python">
   <!--img src="https://visitor-badge.glitch.me/badge?page_id=JoaoLucas976.visitor-badge">
   <img src="https://www.codewars.com/users/JoaoLucas976/badges/micro"-->
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoLucas976&show_icons=true&theme=tokyonight&hide_border=true" alt="Joao Lucas Github stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucas976&layout=compact&theme=tokyonight&hide_border=true" alt="Most usade languages">  
 </div>
