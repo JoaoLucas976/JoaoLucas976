@@ -27,7 +27,7 @@
   My socials
 </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-santos-azevedo-338137162/">
+  <a href="https://www.linkedin.com/in/joao-lucas-santos-azevedo/">
     <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">    
   </a>
 </div>
