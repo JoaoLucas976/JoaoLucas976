@@ -24,11 +24,13 @@
   <img src="https://www.codewars.com/users/JoaoLucas976/badges/micro"-->
 </div>
 
+<!--
 <div align="center">
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/tall/673e0d805434bf319acb4461?variant=dark" alt="roadmap.sh"/>
   </a>
 </div>
+-->
   
 <h2 align="center">
   My socials
