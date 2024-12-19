@@ -40,4 +40,7 @@
   <a href="https://www.linkedin.com/in/joao-lucas-santos-azevedo/">
     <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">    
   </a>
+  <a href="https://www.hackerrank.com/profile/joaolucasazeved1"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png">
+  </a>
 </div>
